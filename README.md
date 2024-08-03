@@ -2,9 +2,9 @@
 
 Welcome to the repository for my second internship task! This task focuses on applying the K-means clustering algorithm to group customers of a retail store based on their purchase history. The goal is to identify distinct customer segments to better understand customer behavior and tailor marketing strategies accordingly.
 
-# Project Overview:
+# Task Overview:
 
-In this project, we aim to:
+In this task, we aim to:
 
 1.Explore and Preprocess the Data: Understand the dataset, handle missing values, and perform feature engineering.
 
