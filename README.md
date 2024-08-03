@@ -16,7 +16,7 @@ In this project, we aim to:
 
 # Dataset:
 
-We use the Customer Segmentation dataset available on Kaggle. You can find the dataset here.
+We use the Customer Segmentation dataset available on Kaggle. You can find the dataset [here.](https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)
 
 # Key Features:
 
